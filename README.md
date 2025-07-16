@@ -18,8 +18,8 @@ Acesta este un joc cognitiv dezvoltat cu Python si Flask, care testeaza viteza s
 
 ## Capturi de ecran
 
-| Joc in desfasurare            | Grafic rezultate                 |
-|-------------------------------|----------------------------------|
-| ![joc](static/demo/demo1.png) | ![grafic](static/demo/demo3.png) |
-| ![joc](static/demo/demo2.png) | 
+| Joc in desfasurare       | Grafic rezultate            |
+|--------------------------|-----------------------------|
+| ![joc](static/demo1.png) | ![grafic](static/demo3.png) |
+| ![joc](static/demo2.png) | 
 
