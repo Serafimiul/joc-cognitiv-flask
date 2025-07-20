@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Imagine blurata</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Ce crezi ca este în imagine?</h2>
+        <img src="data:image/jpeg;base64,{{ image_data }}" alt="Imagine blurata" class="image">
+        <form method="post">
+            <input type="text" name="guess" placeholder="Introdu raspunsul tau" required>
+            <button type="submit">Trimite</button>
+        </form>
+    </div>
+</body>
+</html>
+

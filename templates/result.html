@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Rezultate Finale</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Rezultatele tale</h2>
+        <p><strong>Scor mediu:</strong> {{ score | round(2) }}</p>
+        <p><strong>Interpretare:</strong> {{ interpretation }}</p>
+
+        <h3>Grafice:</h3>
+        <div class="charts">
+            <img src="{{ url_for('static', filename='graphs/timp_pe_imagine.png') }}" alt="Timp per imagine">
+            <img src="{{ url_for('static', filename='graphs/timp_pe_blur.png') }}" alt="Timp per blur">
+        </div>
+
+        <a href="{{ url_for('index') }}" class="start-button">Joaca din nou</a>
+    </div>
+</body>
+</html>
