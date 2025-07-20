@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6f58bbd6-0718-4032-a39d-ed1a9ccd784a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Serafimiul"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Serafimiul&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Serafimiul/joc-cognitiv-flask.git",
-    "accountId": "abe16aa3-63be-47bb-88f2-6715b8fc7d7f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Serafimiul/joc-cognitiv-flask.git&quot;,
+    &quot;accountId&quot;: &quot;abe16aa3-63be-47bb-88f2-6715b8fc7d7f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,12 +50,13 @@
     "Python.joc_blur.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/seraf/Joc/Joc Blur/.venv",
+    "last_opened_file_path": "C:/Users/seraf/Joc/Joc Blur/.venv/static/images/demo",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seraf\Joc\Joc Blur\.venv\static\images\demo" />
       <recent name="C:\Users\seraf\Joc\Joc Blur\.venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
